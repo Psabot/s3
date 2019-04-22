@@ -8,7 +8,7 @@ Cette solution a notamment été étudié pour pouvoir plus facilement copier le
 
 Pour se faire, Ganesha (un NFS) et notamment son module librgw2 écrit par Ceph va permettre de faire l'abstraction du layer S3 et de le servir à l'utilisateur en tant que NFS.
 
-![rgw-nfs-arch](uploads/c014c82b428d3865454469dc481c9e14/rgw-nfs-arch.png)
+![rgw-nfs-arch](http://sebastien-han.fr/blog/images/rgw-nfs-arch.png)
 
 #### Pour l'installation avec ansible:
 
